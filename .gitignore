@@ -1,0 +1,8 @@
+# IntelliJ
+.idea/*
+!.idea/codeStyleSettings.xml
+nodejs-stuff.iml
+
+# Ignore NPM
+node_modules
+*/node_modules
