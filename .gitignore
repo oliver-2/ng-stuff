@@ -1,7 +1,12 @@
+# compiled stuff
+/app
+/src
+
 # IntelliJ
 .idea/*
 !.idea/codeStyleSettings.xml
-nodejs-stuff.iml
+/.idea/workspace.xml
+ng-stuff.iml
 
 # Ignore NPM
 node_modules
