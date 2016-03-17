@@ -1,6 +1,7 @@
 # compiled stuff
 /app
 /src
+/reference
 
 # IntelliJ
 .idea/*
